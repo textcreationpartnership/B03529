@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement to The asses complaint against Balaam; or The cry of the country against ignorant and scandalous ministers.</title>
+            <title>Asses complaint against Balaam</title>
+            <author>Griffin, Lewis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03529</idno>
+            <idno type="STC">Wing G1984</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[8]</idno>
+            <idno type="EEBO-CITATION">99884917</idno>
+            <idno type="PROQUEST">ocm99884917</idno>
+            <idno type="VID">182679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182679)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement to The asses complaint against Balaam; or The cry of the country against ignorant and scandalous ministers.</title>
+                  <title>Asses complaint against Balaam</title>
+                  <author>Griffin, Lewis.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Written by Lewis Griffin.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "A vaunt ye smooth-tongu'd flatterers of the age ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182679:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>A SUPPLEMENT TO THE Aſſes Complaint againſt Balaam;</head>
+            <head type="sub">Or the Cry of the COUNTRY AGAINST Ignorant and Scandalous Miniſters.</head>
+            <lg>
+               <l>A Vaunt ye <hi>ſmooth-Tongu'd flatterers</hi> of the age;</l>
+               <l>Praeſto <hi>ye meal-mouth'd Prophets;</hi> clear the Stage;</l>
+               <l>Enter the <hi>Aſſe</hi> again, who (though he Kneel</l>
+               <l>Unto the <hi>Higher Pow'rs</hi>) lifts up his Heel</l>
+               <l>Againſt all thoſe who make Gods houſe a Den</l>
+               <l>Of<note n="*" place="margin">It hath been a Den of <hi>Lay Theeves</hi> too long already.</note> 
+                  <hi>Clergy Theeves;</hi> Have at them once agen.</l>
+               <l>—But hark; I hear a <hi>Country Pariſh</hi> crye,</l>
+               <l>"Were ever <hi>Chriſtians</hi> in ſuch <hi>ſlavery?</hi>
+               </l>
+               <l>"Muſt we be taught by an <hi>Illit'rate Bear?</hi>
+               </l>
+               <l>"Hee <hi>Preach?</hi> Hee'l only teach our <hi>Boyes</hi> to <hi>ſwear.</hi>
+               </l>
+               <l>—Is then your <hi>Prieſt</hi> a <hi>Swearer?</hi> Hah —muſt he</l>
+               <l>That taunts a <hi>Biſhop</hi> taſte a <hi>Pillory?</hi>
+               </l>
+               <l>And 'tis but Juſt, and right; Yet who controules</l>
+               <l>Him who <hi>Blaſphemes</hi> the <hi>Biſhop</hi> of our <hi>Souls?</hi>
+               </l>
+               <l>What? Is an <hi>oath</hi> leſſe <hi>poenal</hi> then a <hi>word?</hi>
+               </l>
+               <l>Or is the <hi>Servant</hi> greater then his <hi>Lord?</hi>
+               </l>
+               <l>No; <hi>He that ſwears commits the fouler Sin,</hi>
+               </l>
+               <l>
+                  <hi>And more deſerves to loſe his eares then —</hi>
+               </l>
+               <l>—'Tis true <hi>Seditious Spirits,</hi> that Deny</l>
+               <l>Obedience to the <hi>Sacred Hierarchy,</hi>
+               </l>
+               <l>Merit Severe Correction, let them hae't;</l>
+               <l>They'r the <hi>Diſturbers</hi> both of <hi>Church</hi> and <hi>State;</hi>
+               </l>
+               <l>Yet <hi>Praelat's Zeal</hi> would be much better ſhown</l>
+               <l>In ſtriking <hi>Gods offenders</hi> then their <hi>own,</hi>
+               </l>
+               <l>—Nay, <hi>Gods</hi> are <hi>theirs;</hi> for he that wears <hi>lawn ſleeves</hi>
+               </l>
+               <l>Like <hi>Chriſt</hi> is murder'd 'twixt a <hi>brace of Theeves,</hi>
+               </l>
+               <l>Both ſhew their <hi>enmity,</hi> but Divers wayes,</l>
+               <l>The <hi>Presbyter Denyes,</hi> but <hi>This betrayes;</hi>
+               </l>
+               <l>Now tell me <hi>(gentle Reader)</hi> which were Greater,</l>
+               <l>The <hi>ſin</hi> of <hi>Judas,</hi> or the <hi>crime</hi> of <hi>Peter?</hi>
+               </l>
+               <l>—Then let the <hi>Biſhops</hi> caſt them out, for thus</l>
+               <l>They do but <hi>Juſtice</hi> to themſelves and us;</l>
+               <l>Like the wiſe <hi>Mariners,</hi> who, to appeaſe</l>
+               <l>The fury of the raging <hi>VVinds,</hi> and <hi>Seas,</hi>
+               </l>
+               <l>Threw <hi>Jonas</hi> over-board; ſuch was hi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>There was no <hi>Cannon Law</hi> to keep him in.</l>
+               <l>Nor is it reaſon <hi>all</hi> ſhould be maintain'd</l>
+               <l>I'th <hi>Church,</hi> who took <hi>Degrees,</hi> and were <hi>Ordain'd;</hi>
+               </l>
+               <l>For He that after proves a <hi>Drunken Beaſt,</hi>
+               </l>
+               <l>
+                  <hi>Degrades</hi> himſelfe from <hi>Man,</hi> much more from <hi>Prieſt</hi>
+               </l>
+               <l>And ſuch they were who caus'd our Bloody War,</l>
+               <l>When <hi>Levy's</hi> tribe were kick'd by <hi>Iſſacar;</hi>
+               </l>
+               <l>For though <hi>Men</hi> ſpeak with a <hi>not ſo my Sons,</hi>
+               </l>
+               <l>Yet <hi>God</hi> reprov'd them with the <hi>voice</hi> of <hi>Guns.</hi>
+               </l>
+               <l>
+                  <hi>Phanaticks,</hi> thoſe <hi>Philiſtins,</hi> wan the field,</l>
+               <l>Whilſt our <hi>poor Iſrael</hi> were forc'd to yield;</l>
+               <l>For <hi>Eli</hi>'s <hi>boyes</hi> had loſt the <hi>Ark of God,</hi>
+               </l>
+               <l>Each <hi>Phinehas</hi> begat an <hi>Ichabod.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then <hi>Oh ye Biſhops</hi> heal theſe ſad diſaſters,</l>
+               <l>We do not call for <hi>Rectors</hi> but for <hi>Paſtors.</hi>
+               </l>
+               <l>A Prieſt ſhould <hi>lead</hi> his <hi>Pariſh as a guide,</hi>
+               </l>
+               <l>Not <hi>leap</hi> upon their <hi>galled backs</hi> and <hi>ride,</hi>
+               </l>
+               <l>For 'tis our <hi>Mother Churche's</hi> grand diſgrace,</l>
+               <l>That theſe <hi>black patches</hi> ſtick upon her <hi>face.</hi>
+               </l>
+            </lg>
+            <byline>Written by <hi>Lewis Griffin.</hi>
+            </byline>
+         </div>
+      </body>
+   </text>
+</TEI>
